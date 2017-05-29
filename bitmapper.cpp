@@ -7,7 +7,7 @@
 using namespace std;
 typedef std::vector<int> intvec;
 typedef std::vector<float> floatvec;
-// Desinger Sumitha George
+// Desinger Sumitha George test change
 //to collect data from file and separate to a bitmapper 
 struct BoundingBox
 {
